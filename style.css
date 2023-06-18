@@ -1,0 +1,46 @@
+.list {
+  display: flex;
+  flex-direction: row;
+}
+
+.card {
+  border: 1px solid blue;
+  border-radius: 8px;
+  height: 175px;
+  margin: 10px;
+  padding: 15px 25px;
+  width: 890px;
+}
+
+.text {
+    color: blue;
+}
+
+h3 {
+    color: pink;
+}
+
+/* ----------------------------------------------- */
+
+
+.list1 {
+  display: flex;
+  flex-direction: column;
+}
+
+.card1 {
+  border: 1px solid blue;
+  border-radius: 8px;
+  height: 175px;
+  margin: 10px;
+  padding: 15px 25px;
+  width: 890px;
+}
+
+.text1 {
+    color: blue;
+}
+
+h3 {
+    color: pink;
+}
